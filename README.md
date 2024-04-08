@@ -1,8 +1,8 @@
    Exeinfo PE for Windows by A.S.L. 
 
-www.exeinfo.xn.pl - www.exeinfo.o7.pl
+www.exeinfo.xn.pl 
 
-(  freeware  version  )
+(  freeware  version , work with Windows XP only after patch !!! )
 
  
 
